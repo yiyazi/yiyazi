@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>米娅子</title>
+  <icon>https://www.gravatar.com/avatar/9328f178891fe2979e643ef7399bac2b</icon>
+  <subtitle>一顾倾人城，再顾倾人国</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://miyazi.cn/"/>
+  <updated>2023-04-24T16:28:33.999Z</updated>
+  <id>https://miyazi.cn/</id>
+  
+  <author>
+    <name>miyazi.cn</name>
+    <email>idesigner8@163.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>古镇风情 02</title>
+    <link href="https://miyazi.cn/2023/04/25/post02/"/>
+    <id>https://miyazi.cn/2023/04/25/post02/</id>
+    <published>2023-04-24T16:27:31.000Z</published>
+    <updated>2023-04-24T16:28:33.999Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>引言<br>一场来自中国古镇的邂逅</p></blockquote><p><img src="https://cdn.jsdelivr.net/gh/yiyazi/smms/img/177124-457107270" alt="177124-457107270"></p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;引言&lt;br&gt;一场来自中国古镇的邂逅&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/yiyazi/smms/img/177124-457107270&quot; alt=&quot;177124-457107270&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="古镇" scheme="https://miyazi.cn/categories/%E5%8F%A4%E9%95%87/"/>
+    
+    
+      <category term="中国服饰" scheme="https://miyazi.cn/tags/%E4%B8%AD%E5%9B%BD%E6%9C%8D%E9%A5%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>古镇风情 01</title>
+    <link href="https://miyazi.cn/2023/04/25/post01/"/>
+    <id>https://miyazi.cn/2023/04/25/post01/</id>
+    <published>2023-04-24T16:26:10.000Z</published>
+    <updated>2023-04-24T16:28:03.726Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>引言<br>一场来自中国古镇的邂逅</p></blockquote><p><img src="https://cdn.jsdelivr.net/gh/yiyazi/smms/img/177082-1119540594" alt="177082-1119540594"></p><a id="more"></a><p><img src="https://cdn.jsdelivr.net/gh/yiyazi/smms/img/177095-522145386" alt="177095-522145386"></p><p><img src="https://cdn.jsdelivr.net/gh/yiyazi/smms/img/177058-2644854495" alt="177058-2644854495"></p><p><img src="https://cdn.jsdelivr.net/gh/yiyazi/smms/img/177061-2644854501" alt="177061-2644854501"></p><p><img src="https://cdn.jsdelivr.net/gh/yiyazi/smms/img/177067-1272115241" alt="177067-1272115241"></p><p><img src="https://cdn.jsdelivr.net/gh/yiyazi/smms/img/177070-247611101" alt="177070-247611101"></p><p><img src="https://cdn.jsdelivr.net/gh/yiyazi/smms/img/177074-1922076470" alt="177074-1922076470"></p><p><img src="https://cdn.jsdelivr.net/gh/yiyazi/smms/img/177076-1119540585" alt="177076-1119540585"></p><p><img src="https://cdn.jsdelivr.net/gh/yiyazi/smms/img/177079-1119540590" alt="177079-1119540590"></p><p><img src="https://cdn.jsdelivr.net/gh/yiyazi/smms/img/177083-1119540595" alt="177083-1119540595"></p><p><img src="https://cdn.jsdelivr.net/gh/yiyazi/smms/img/177097-522145388" alt="177097-522145388"></p><p><img src="https://cdn.jsdelivr.net/gh/yiyazi/smms/img/177098-522145389" alt="177098-522145389"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;引言&lt;br&gt;一场来自中国古镇的邂逅&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/yiyazi/smms/img/177082-1119540594&quot; alt=&quot;177082-1119540594&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="古镇" scheme="https://miyazi.cn/categories/%E5%8F%A4%E9%95%87/"/>
+    
+    
+      <category term="中国服饰" scheme="https://miyazi.cn/tags/%E4%B8%AD%E5%9B%BD%E6%9C%8D%E9%A5%B0/"/>
+    
+  </entry>
+  
+</feed>
